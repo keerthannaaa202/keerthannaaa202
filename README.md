@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 </p>
----
+
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
