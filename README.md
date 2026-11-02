@@ -17,8 +17,6 @@
 - 🚀 Building real-world projects to improve my analytical skills.
 - 📍 Based in Chennai, India.
 
-## 🛠️ Technical Skills
-
 
 <h2 align="left">🛠️ Technical Skills</h2>
 
