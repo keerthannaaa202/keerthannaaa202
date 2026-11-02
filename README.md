@@ -12,7 +12,7 @@
 
 - 🎓 B.Tech Artificial Intelligence and Data Science Graduate (2026)
 - 📊 Interested in Data Analytics and Business Intelligence.
-- 🐍 Currently learning Python and Data Analytics.
+- 🐍 Currently learning Data Analytics.
 - 📈 Practicing SQL, Excel, Power BI and Python.
 - 🚀 Building real-world projects to improve my analytical skills.
 - 📍 Based in Chennai, India.
@@ -71,12 +71,15 @@
 🔗 [View Project](https://github.com/keerthannaaa202/TN-WEATHER-AQI-dashboard)
 
 
-## 📜 Certifications & Learning
+
+## 🏆 Certifications & Achievements
 
 - Microsoft Power BI – Infosys Springboard
-- Data Analytics – NoviTech
 - Power BI Training – 360DigiTMG
-- Python & Data Analytics – Ongoing Learning
+- Data Analytics – NoviTech
+- Data Analytics – Ongoing Learning
+
+📜 [View My Certificates on LinkedIn](https://www.linkedin.com/in/keerthana-anbusekar-1b109127b/)
 
 
 ## 🌐 Connect With Me
