@@ -19,10 +19,28 @@
 
 ## 🛠️ Technical Skills
 
-- **Programming:** Python, SQL
-- **Data Analytics:** Data Cleaning, Data Preparation, Exploratory Data Analysis
-- **Visualization:** Power BI, MS Excel
-- **Tools:** MySQL, VS Code, Jupyter Notebook
+
+<h2 align="left">🛠️ Technical Skills</h2>
+
+<h3>Programming Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
+</p>
+
+<h3>Data Analytics & Visualization</h3>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+<h3>Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=jupyter" height="45" alt="Jupyter"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+</p>
+
 
 ## 📂 Projects
 
