@@ -42,20 +42,34 @@
 </p>
 
 
-## 📂 Projects
 
-### 🍕 Pizza Sales Analysis – SQL & Excel
+## 🚀 Featured Projects
+
+### 🍕 1. Pizza Sales Analysis – SQL & Excel
 - Analyzed pizza sales data using SQL and Excel.
 - Created KPIs and interactive dashboard visualizations.
 - Identified sales trends and business insights.
 
-### 📊 Retail Superstore Sales Dashboard – Power BI
-- Developed an interactive dashboard to analyze retail sales.
-- Visualized sales performance across categories, regions and segments.
+🔗 [View Project](https://github.com/keerthannaaa202/-pizza-sales-SQL-EXCEL-analysis-)
 
-### 🚦 Context-Aware Traffic Sign & Dynamic Risk Alert System
-- Developed a traffic sign detection and risk alert system using Python and YOLOv8.
-- Integrated time, weather and location-based risk analysis.
+### 📊 2. Retail Sales Analysis
+- Analyzed retail sales data to understand business performance.
+- Explored sales trends and key performance indicators.
+
+🔗 [View Project](https://github.com/keerthannaaa202/Retail-Sales-Analysis-Project)
+
+### 📈 3. Stock Market Analysis
+- Explored stock market data through data analysis.
+- Worked on identifying trends and visualizing market insights.
+
+🔗 [View Project](https://github.com/keerthannaaa202/Stock-Market-Analysis-Project)
+
+### 🌦️ 4. Tamil Nadu Weather & AQI Dashboard
+- Developed an interactive dashboard covering six Tamil Nadu cities.
+- Visualized weather conditions and Air Quality Index (AQI) metrics.
+
+🔗 [View Project](https://github.com/keerthannaaa202/TN-WEATHER-AQI-dashboard)
+
 
 ## 📜 Certifications & Learning
 
