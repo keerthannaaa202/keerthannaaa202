@@ -46,10 +46,18 @@
 - Power BI Training – 360DigiTMG
 - Python & Data Analytics – Ongoing Learning
 
-## 📫 Connect With Me
 
-- GitHub: https://github.com/keerthannaaa202
+## 🌐 Connect With Me
 
+<p align="left">
+<a href="https://www.linkedin.com/in/keerthana-anbusekar-1b109127b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/keerthannaaa202" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+</p>
 ---
 
 <p align="center">
