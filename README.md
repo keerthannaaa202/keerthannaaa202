@@ -72,14 +72,21 @@
 
 
 
+
 ## 🏆 Certifications & Achievements
 
-- Microsoft Power BI – Infosys Springboard
-- Power BI Training – 360DigiTMG
-- Data Analytics – NoviTech
-- Data Analytics – Ongoing Learning
+- 📊 [Microsoft Power BI – Infosys Springboard](https://lnkd.in/p/gdpjty6Y)
 
-📜 [View My Certificates on LinkedIn](https://www.linkedin.com/in/keerthana-anbusekar-1b109127b/)
+- 📈 [Power BI Training – 360DigiTMG](https://lnkd.in/p/gyjtQt39)
+
+- 💻 [Data Analytics – NoviTech](https://lnkd.in/p/gRuNu_aV)
+
+- 🐍 Python & Data Analytics – Besant Technologies (Ongoing Learning)
+
+---
+
+📜 [Connect with me on LinkedIn](https://www.linkedin.com/in/keerthana-anbusekar-1b109127b/)
+
 
 
 ## 🌐 Connect With Me
